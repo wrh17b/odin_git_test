@@ -1,1 +1,2 @@
 random string of text
+adding another string to test commit message
